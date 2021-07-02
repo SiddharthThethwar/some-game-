@@ -7,7 +7,7 @@ This repository contains python based interactive Snake-And-Apple game.
 ## Installing Snake-And-Apple:
 
 ```
-git clone https://github.com/aqeelanwar/Snake-And-Apple.git
+git clone https://github.com/SiddharthThethwar/Snake-And-Apple.git
 ```
 
 ## Running Snake-And-Apple:
@@ -33,4 +33,3 @@ python main.py
 
 
 ## Author
-[Aqeel Anwar](https://www.prism.gatech.edu/~manwar8)
